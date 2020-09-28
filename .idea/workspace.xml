@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2260fc2b-85bd-44ba-a48e-38807a04113f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i9FAOfzIXRjQKtLAxqqfCix8zs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\DatabaseTechnology" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="RStarTree project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2260fc2b-85bd-44ba-a48e-38807a04113f" name="Default Changelist" comment="" />
+      <created>1601311756892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601311756892</updated>
+      <workItem from="1601311758535" duration="4738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final files" />
+    <option name="LAST_COMMIT_MESSAGE" value="final files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601313192765">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="549" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1601313192765" />
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1601315392512">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601315392512" />
+    <state x="580" y="170" key="FileChooserDialogImpl" timestamp="1601316392941">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601316392941" />
+    <state x="649" y="322" key="Github.ShareDialog" timestamp="1601316618670">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="649" y="322" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1601316618670" />
+    <state x="566" y="134" key="Github.UntrackedFilesDialog" timestamp="1601316645916">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="566" y="134" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1601316645916" />
+    <state width="778" height="217" key="GridCell.Tab.0.bottom" timestamp="1601315441045">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="217" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601315441045" />
+    <state width="778" height="217" key="GridCell.Tab.0.center" timestamp="1601315441044">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="217" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601315441044" />
+    <state width="778" height="217" key="GridCell.Tab.0.left" timestamp="1601315441044">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="217" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601315441044" />
+    <state width="778" height="217" key="GridCell.Tab.0.right" timestamp="1601315441045">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="217" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601315441045" />
+    <state x="392" y="161" key="Vcs.Push.Dialog.v2" timestamp="1601316863436">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="161" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601316863436" />
+    <state x="609" y="293" key="git4idea.rebase.GitRebaseDialog" timestamp="1601316583844">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="293" key="git4idea.rebase.GitRebaseDialog/0.0.1600.860@0.0.1600.860" timestamp="1601316583844" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1601313190859">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1601313190859" />
+  </component>
+</project>
